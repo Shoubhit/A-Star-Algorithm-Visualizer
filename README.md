@@ -43,10 +43,10 @@ Press 'C' to clear the grid and start over.
 ## Visualization:
 The visualization uses different colors to represent the various elements on the grid:
 
-White: Empty cells
-Orange: Start point
-Turquoise: End point
-Black: Barriers (obstacles)
-Red: Closed nodes (nodes that have been explored)
-Green: Open nodes (nodes in the queue for exploration)
+White: Empty cells  
+Orange: Start point  
+Turquoise: End point  
+Black: Barriers (obstacles)  
+Red: Closed nodes (nodes that have been explored)  
+Green: Open nodes (nodes in the queue for exploration)  
 Purple: Path found from start to end
