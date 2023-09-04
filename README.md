@@ -33,14 +33,14 @@ A* is guaranteed to find the shortest path if the following conditions are met:
 The heuristic function used to estimate the cost from a node to the target node is admissible, meaning it never overestimates the true cost. In other words, the heuristic function should be optimistic.
 The graph or grid has no negative edge weights.
 
-Controls:
+##Controls:
 Left-click on the grid to set the start and end points. You can only set one start point and one end point.
 Left-click on the grid again to create barriers (obstacles) that the algorithm should navigate around.
 Right-click on the grid to remove barriers or reset the start and end points.
 Press the SPACEBAR to start the A* algorithm. It will find the shortest path from the start to the end while avoiding barriers.
 Press 'C' to clear the grid and start over.
 
-Visualization
+##Visualization:
 The visualization uses different colors to represent the various elements on the grid:
 
 White: Empty cells
